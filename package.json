@@ -1,6 +1,6 @@
 {
   "name": "joaquin",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Loads environment variables from .env",
   "main": "lib/main.js",
   "directories": {
